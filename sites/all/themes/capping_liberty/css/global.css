@@ -163,6 +163,11 @@ h2.site-name a:visited {
   padding-bottom: 5px;
 }
 
+
+.search-info {
+  display: none;
+}
+
 a:link, a:visited {
   color: #cc5511;
   text-decoration: underline;
