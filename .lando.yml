@@ -1,4 +1,0 @@
-name: capping-liberty
-recipe: drupal7
-config:
-  webroot: .
